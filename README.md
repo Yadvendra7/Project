@@ -1,2 +1,2 @@
 # DCypher
-kuch nahi
+kuch sahi
